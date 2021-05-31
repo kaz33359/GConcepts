@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-cmsaddons.net	TRUE	/	FALSE	1999999999	PHPSESSID	b7b6df0a171aceea3d346cb0333b018d
-
