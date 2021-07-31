@@ -59,12 +59,19 @@ Description: A Beautiful, Professional and Multipurpose Theme Made by Viki Team
         - Footer
 
 ---------------------------------------------------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 /* BASE */
 body {
   font-size: 14px;
   font-weight: normal;
   font-family: "Raleway";
   color: #999999;
+}
+
+.fontpoppins{
+    font-family: "Poppins";
 }
 
 h1,
