@@ -1,7 +1,7 @@
 <?php
 session_start();
 // connect to database
-$conn = mysqli_connect('localhost','root','','gconcepts');
+$conn = mysqli_connect('localhost','root','','gconcept');
 define('SERVER_PATH',$_SERVER['DOCUMENT_ROOT'].'/GConcepts/');
 define('SITE_PATH','http://127.0.0.1/GConcepts/');
 
@@ -13,5 +13,3 @@ if (!$conn) {
 }else {
   // echo "string";
 }
-
- ?>
